@@ -10,4 +10,6 @@ Collect all small pickups, then obtain the BIG golden pickup at the end. This en
 \
 Asset used: Unity-Chan from Unity asset store\
 \
-I had issues trying to get the idle animation to play accordingly, so it\'92s stuck at walking.}
+I had issues trying to get the idle animation to play accordingly, so it\'92s stuck at walking.\
+\
+2/27/19 : adjusted some settings so the game now starts on the title screen when hitting play.}
