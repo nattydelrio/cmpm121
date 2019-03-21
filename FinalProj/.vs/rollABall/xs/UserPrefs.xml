@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E61BADCC-9894-44D0-0740-0C98799F7731}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Materials/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Materials/Scripts/PlayerController.cs" Line="42" Column="10" />
+      <File FileName="Assets/Scenes/Materials/Scripts/CameraController.cs" Line="12" Column="65" />
+      <File FileName="Assets/Scenes/Materials/Scripts/Rotator.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
